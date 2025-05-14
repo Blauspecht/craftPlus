@@ -1,5 +1,6 @@
 {
   "values": [
-    "pathfinder:setup"
+    "pathfinder:setup",
+	"silkfort:setup"
   ]
 }

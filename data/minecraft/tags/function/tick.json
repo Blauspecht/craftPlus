@@ -1,5 +1,6 @@
 {
   "values": [
-    "pathfinder:trigger_check"
+    "pathfinder:trigger_check",
+    "silkfort:trigger_check"
   ]
 }
